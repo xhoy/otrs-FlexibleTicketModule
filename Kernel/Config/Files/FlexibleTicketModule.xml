@@ -149,7 +149,7 @@
         <Group>FlexibleTicketModule</Group>
         <SubGroup>Frontend::Agent::Ticket::ViewFlexible::Customer-Vistit-Us</SubGroup>
         <Setting>
-            <String Regex="">Customer has visted Agent (at his location)</String>
+            <String Regex="">Customer has visted Agent (at agent location)</String>
         </Setting>
     </ConfigItem>
     <ConfigItem Name="Ticket::Frontend::FlexibleTicketDialog::We-Visit-Customer###DialogTitle" Required="1" Valid="1">
