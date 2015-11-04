@@ -1,5 +1,5 @@
 # --
-# Kernel/Output/HTML/TicketMenuFlexibleModule.pm
+# Kernel/Output/HTML/TicketMenu/FlexibleModule.pm
 # Copyright (C) 2015 Perl-Services.de, http://perl-services.de
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
@@ -7,7 +7,7 @@
 # did not receive this file, see http://www.gnu.org/licenses/agpl.txt.
 # --
 
-package Kernel::Output::HTML::TicketMenuFlexibleModule;
+package Kernel::Output::HTML::TicketMenu::FlexibleModule;
 
 use strict;
 use warnings;

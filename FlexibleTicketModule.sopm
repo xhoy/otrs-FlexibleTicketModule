@@ -2,8 +2,8 @@
 <otrs_package version="1.0">
     <!-- GENERATED WITH OTRS::OPM::Maker::Command::sopm (1.29) -->
     <Name>FlexibleTicketModule</Name>
-    <Version>4.0.1</Version>
-    <Framework>4.0.x</Framework>
+    <Version>5.0.1</Version>
+    <Framework>5.0.x</Framework>
     <Vendor>Perl-Services.de</Vendor>
     <URL>http://www.perl-services.de</URL>
     <Description Lang="de">Definiere eigene Dialoge für die Ticketansicht</Description>
@@ -12,8 +12,8 @@
     <Filelist>
         <File Permission="644" Location="Custom/Kernel/Modules/AgentFlexibleTicketDialog.pm" />
         <File Permission="644" Location="Custom/Kernel/Modules/AgentTicketZoom.pm" />
-        <File Permission="644" Location="Custom/Kernel/Output/HTML/Standard/AgentFlexibleTicketDialog.tt" />
-        <File Permission="644" Location="Custom/Kernel/Output/HTML/TicketMenuFlexibleModule.pm" />
+        <File Permission="644" Location="Custom/Kernel/Output/HTML/Templates/Standard/AgentFlexibleTicketDialog.tt" />
+        <File Permission="644" Location="Custom/Kernel/Output/HTML/TicketMenu/FlexibleModule.pm" />
         <File Permission="644" Location="Kernel/Config/Files/FlexibleModule.xml.dist" />
         <File Permission="644" Location="Kernel/Config/Files/FlexibleTicketModule.xml" />
         <File Permission="644" Location="doc/FlexibleTicketModule.json" />
