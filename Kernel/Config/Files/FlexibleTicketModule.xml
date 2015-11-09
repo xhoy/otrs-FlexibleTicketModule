@@ -6,9 +6,9 @@
         <SubGroup>Frontend::Agent::ModuleRegistration</SubGroup>
         <Setting>
             <FrontendModuleReg>
-                <Description>Your own ticket dialog.</Description>
+                <Description>Visit-Ticket.</Description>
                 <NavBarName>Ticket</NavBarName>
-                <Title>Your own ticket dialog.</Title>
+                <Title>Visit-Ticket</Title>
                 <Loader>
                     <JavaScript>Core.Agent.TicketAction.js</JavaScript>
                 </Loader>
