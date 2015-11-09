@@ -1,5 +1,5 @@
 # --
-# AgentTicketPhoneCommon.tt - provides HTML form for phone
+# AgentFlexibleTicketDialog.tt - provides HTML form for phone
 # Copyright (C) 2001-2015 OTRS AG, http://otrs.com/
 # --
 # This software comes with ABSOLUTELY NO WARRANTY. For details, see
@@ -21,7 +21,7 @@
 
 [% RenderBlockStart("TicketBack") %]
             <p>
-                <a class="CancelClosePopup" href="#">[% Translate("Cancel & close window") | html %]</a>
+                <a class="CancelClosePopup" href="#">[% Translate("Cancel & close") | html %]</a>
             </p>
 [% RenderBlockEnd("TicketBack") %]
 
